@@ -1,3 +1,0 @@
-Could be a good way to expand data sets.
-"Inverse Document Frequency" - need to understand this.
-Could be used to find voting patterns.
