@@ -8,6 +8,7 @@ See [http://www.gnu.org/software/wget/manual/wget.html](http://www.gnu.org/softw
 -----
 
 recall syntax used in executing wget portion of exercise:
+
 wget -r -H -nc -np -nH --cut-dirs=2 -A .txt -e robots=off -l1 -i ./itemlist.txt -B 'http://archive.org/download/'
 
 What does this mean in layman's terms?
