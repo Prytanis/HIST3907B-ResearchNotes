@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="000style.xsl"?>
+<teiCorpus>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Digitised and Encoded copy of Negro Slavery by Zachary MacAulay</title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Transcribed from digital copy available from Recovered Histories at
+                    http://www.recoveredhistories.org/pamphlet1.php?page=1&amp;orderby=MaxID&amp;catid=66</authority>
+            </publicationStmt>
+            <sourceDesc>
+                <biblFull>
+                    <titleStmt>
+                        <title>Negro Slavery; or, A View of Some of the More Prominent Features of
+                            that State of Society, as it Exists in the United States of America and
+                            in the Colonies of the West Indies, Especially in Jamaica</title>
+                    </titleStmt>
+                    <publicationStmt>
+                        <publisher>Printed for Hatchard and Son, Piccadilly, and J. and A. Arch,
+                            Cornhill</publisher>
+                        <distributor>Sold Also by W. Graphel, Church street, and G. and J. Robison,
+                            Castle Street, Liverpool.</distributor>
+                        <date when="1823">1823</date>
+                        <pubPlace>
+                            <settlement>London</settlement>
+                        </pubPlace>
+                    </publicationStmt>
+                </biblFull>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI>
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title/>
+                </titleStmt>
+                <publicationStmt>
+                    <authority>Transcribed by a student of Digital History at Sheffield Hallam
+                        University</authority>
+                </publicationStmt>
+                <sourceDesc>
+                    <bibl>
+                        <biblScope>73</biblScope>
+                    </bibl>
+                </sourceDesc>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <p>NEGRO SLAVERY, &amp;c. &amp;</p>
+                <p><interp cert="unknown" key="Unclear as I have not read the full text." 
+                    n="MacAulay, Zachary. Negro Slavery; or, A View of Some of the More Prominent Features of that State of Society, as it Exists in the United States of America and in the Colonies of the West Indies, Especially in Jamaica. (London, 1823)"
+                    ref="http://www.recoveredhistories.org/pamphlet1.php?catid=66">
+                    The object of the present publication is to furnish to the public a plain,
+                        authentic, and unvarnished picture of Negro slavery </interp>, not as it may
+                    have existed at some antecedent period of time, but as it exists at the present
+                    moment, both in the <placeName key="United States of America"
+                        ref="http://tools.wmflabs.org/geohack/geohack.php?pagename=United_States&amp;params=38_53_N_77_01_W_type:country"
+                        > United States of America</placeName>, and in the European Colonies of the
+                    West Indies, which have been peopled by imported Africans. We shall begin with
+                    the United States.</p>
+                <p>The Negro Slavery of the United States.</p>
+                <p>The real nature of Negro slavery, as it exists in the <placeName
+                        key="United States of America"
+                        ref="http://tools.wmflabs.org/geohack/geohack.php?pagename=United_States&amp;params=38_53_N_77_01_W_type:country"
+                        > United States</placeName>, at the present moment, cannot be better
+                    exhibited than by republishing an article which made its appearance not long
+                    since in a monthly periodical work. It is a review of the two volumes of travels
+                    which had recently been published in this country; the one entitled "Travels in
+                    Canada and the United States," by <persName key="Hall, Francis" from="?"
+                        to="1833" role="Travel Writer"
+                        ref="http://memory.loc.gov/cgi-bin/query/r?ammem/lhbtnbib:@field%28NUMBER+@od1%28lhbtn+26822%29%29"
+                        > Lieutenant Francis Hall</persName>; and the other, "Sketches of America,"
+                    by <persName key="Fearon, Henry Bradshaw" from="1770" to="?"
+                        role="Travel Writer" ref="http://catalog.hathitrust.org/Record/007657458"
+                        >Mr. Fearon</persName>. The article is as follows.&#x2013;</p>
+                <p>In undertaking the review of the works of <persName key="Hall, Francis" from="?"
+                        to="1833" role="Travel Writer"
+                        ref="http://memory.loc.gov/cgi-bin/query/r?ammem/lhbtnbib:@field%28NUMBER+@od1%28lhbtn+26822%29%29"
+                        > Lieutenant Hall</persName> and <persName key="Fearon, Henry Bradshaw"
+                        from="1770" to="?" role="Travel Writer"
+                        ref="http://catalog.hathitrust.org/Record/007657458">Mr. Fearon</persName>,
+                    we have no intention to amuse our readers with a description of American
+                    scenery, or to communicate information on the politics</p>
+		<p>market for the Whites.  The merchants attend at their stores and counting houses."  (Vol.i. p.42.)</p>
+		<p>"The sacred observance of Sunday appears to me," he says, "necessary, if we expect any good effect from the commands of God.  In countries where the duties of that day are becomingly attended to, a greater proportion of virtue, &c. is to be observed.  On the contrary, where the Sabbath is violated, the manners of the mass of the people are vicious, regardless of every commendable principle, and afford examples of human depravity which, it is with reluctance I must say, is too applicable to that country (Jamaica).  It is much to be wished, that the fourth commandment were more fully taken into consideration.  It seems <i>possible</i> to do away <i>Sunday markets, and cultivating the ground.  Sugar-mills should not be at work on that day</i>, indeed, no labour allowed.  It was appointed, by Divine authority, to be a day of rest and devotion, in which no work should be performed."  (Vol.i. p.108.)</p>
+		<p>"It must be admitted," he goes on to remark, "that the means of religious instruction to Negroes, in Jamaica, are yet extremely defective; and, it is still more painful to add, that the White inhabitants are culpably inattentive to public religious duties.  It were well if that were all.  <i>Contempt for religion is openly avowed by a great proportion of those to be met with in that country.</i>"  (Vol.i. p.328.)</p>
+		<p>"The propriety of matrimony," he tells us, "is seldom impressed on the minds of the Negroes, by the clergy or any other White persons.  Indeed, the latter, themselves, shew the example of a libidinous course of life, and follow that promiscuous intercourse which can scarcely be justified in savages."  (Vol.i. p.329)</p>
+		<p>"At our parish-church, the people of Colour behaved themselves with the greatest propriety, but the Whit persons conducted themselves with great indecency." --</p>
+		</body>
+        </text>
+    </TEI>
+</teiCorpus>
