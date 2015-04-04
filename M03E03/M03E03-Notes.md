@@ -16,9 +16,13 @@ Outpt File: M03E03-V03.csv
 
 Question: Do you see any interesting patterns? Make a note!
 Trying with V03 with no dates.
+
 No.  Nothing populates in the various tabs.  Some problems with special characters are mentioned.
 
 Was finally able to get it working on the "Graph" tab.  Network node graph generated.  Trying to find way to export to demostrate completion.
+
+Screenshot saved of network graph.  Should be some other way to output image from the tool.
+
 
 
 
