@@ -8,7 +8,7 @@
 ##### Introductions
 My name is Patrick Kelley.  I work as a securities trader for [TD Waterhouse][06].  I have my Canadian Securities license (CSC and CPH), my Derivitives, Futures, and Options trading license (DFOL), and my life insurance licence.  I also have seven years of  experience at the management level in marketing.  My resume with [MBNA Canada][04] and their marketing efforts gave me exposure to--and decision making authority for--one of the largest marketing operations in the country.
 
-I am a father of two children, Sophia and Athena, and a husband to Yvonna.
+I am the father of two children, Sophia and Athena, and husband to Yvonna.
 
 ##### Why Am I Taking HIST3907B?
 Recent successes in trading have afforded me the opportunity to return to university to complete my BA.  With the normal obligations of being a homeowner and parent, I did not have the luxury of taking a leave of absense from work until recently.  Completing the degree is also unfinished business for me personally.  It is something that I've been wanting to bring closure to for a long time.
@@ -56,7 +56,7 @@ Though the concept began as the desire to create and 'ethical will' for my daugh
 
 I hope that the suspense can be forgiven, but for the purpose of this assignment I will have to allow the ideas to remain unexpressed.  They are too extensive to be appropriately documented here.
 
-Suffice it to say, that the ethical will is intended to be benign.  However, should I ever turn my new visualizaion and social media super powers to evil, you could looke forward to the following campaign poster:
+Suffice it to say, that the ethical will is intended to be benign.  However, should I ever turn my new visualizaion and social media super powers to evil, you could look forward to the following campaign poster:
 ![alt text][I1]
 
 Looking forward to the class,
