@@ -1,0 +1,6 @@
+"STATE_FIPS" NOT LIKE '02' AND "STATE_FIPS" NOT LIKE '15'
+
+
+use add data to import shape file
+Use data selection with above code
+export layer as new shapefile
