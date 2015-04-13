@@ -1,0 +1,17 @@
+Thoughts...
+
+Base was intended to be kept so that maps of Alaska could be produced for comparison over national park issue.
+
+Chose not to procede with national park thing because would need ways to highlight just the parks using these methods.  Very time consuming.
+
+Did use Base to produce individual states instead of working from subset of contig...
+
+Pop Estimates for base
+v00 contains all info
+v01 is trimmed down to just the relevant year.
+join was between shap file an v01
+
+Base not used in final project, but is the core that all other stages are derived from.
+
+elpo04p020.* are original data
+
